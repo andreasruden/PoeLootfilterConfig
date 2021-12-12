@@ -1,0 +1,4580 @@
+[
+  {
+    "Name": "Crude Bow",
+    "Level": 1,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Short Bow",
+    "Level": 5,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Long Bow",
+    "Level": 9,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Composite Bow",
+    "Level": 14,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Recurve Bow",
+    "Level": 18,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Bone Bow",
+    "Level": 23,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Royal Bow",
+    "Level": 28,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Hedron Bow",
+    "Level": 30,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Death Bow",
+    "Level": 32,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Grove Bow",
+    "Level": 35,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Reflex Bow",
+    "Level": 36,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Decurve Bow",
+    "Level": 38,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Compound Bow",
+    "Level": 41,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Sniper Bow",
+    "Level": 44,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Ivory Bow",
+    "Level": 47,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Foundry Bow",
+    "Level": 50,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Highborn Bow",
+    "Level": 50,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Decimation Bow",
+    "Level": 53,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Thicket Bow",
+    "Level": 56,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Steelwood Bow",
+    "Level": 57,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Citadel Bow",
+    "Level": 58,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Ranger Bow",
+    "Level": 60,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Assassin Bow",
+    "Level": 62,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Spine Bow",
+    "Level": 64,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Imperial Bow",
+    "Level": 66,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Harbinger Bow",
+    "Level": 68,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Solarine Bow",
+    "Level": 70,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Maraketh Bow",
+    "Level": 71,
+    "BaseType": "Bow",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Nailed Fist",
+    "Level": 1,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Sharktooth Claw",
+    "Level": 7,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Awl",
+    "Level": 12,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Cat&#039;s Paw",
+    "Level": 17,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Blinder",
+    "Level": 22,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Timeworn Claw",
+    "Level": 26,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Shadow Fangs",
+    "Level": 30,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Sparkling Claw",
+    "Level": 30,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Fright Claw",
+    "Level": 34,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Double Claw",
+    "Level": 36,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Thresher Claw",
+    "Level": 37,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Gouger",
+    "Level": 40,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Tiger&#039;s Paw",
+    "Level": 43,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Gut Ripper",
+    "Level": 46,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Prehistoric Claw",
+    "Level": 49,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Malign Fangs",
+    "Level": 50,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Noble Claw",
+    "Level": 52,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Eagle Claw",
+    "Level": 55,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Twin Claw",
+    "Level": 57,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Great White Claw",
+    "Level": 58,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Throat Stabber",
+    "Level": 60,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Hellion&#039;s Paw",
+    "Level": 62,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Eye Gouger",
+    "Level": 64,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Vaal Claw",
+    "Level": 66,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Imperial Claw",
+    "Level": 68,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Terror Claw",
+    "Level": 70,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Void Fangs",
+    "Level": 70,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Gemini Claw",
+    "Level": 72,
+    "BaseType": "Claw",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Glass Shank",
+    "Level": 1,
+    "BaseType": "Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Skinning Knife",
+    "Level": 5,
+    "BaseType": "Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Stiletto",
+    "Level": 15,
+    "BaseType": "Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Flaying Knife",
+    "Level": 30,
+    "BaseType": "Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Hollowpoint Dagger",
+    "Level": 30,
+    "BaseType": "Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Prong Dagger",
+    "Level": 36,
+    "BaseType": "Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Poignard",
+    "Level": 41,
+    "BaseType": "Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Pressurised Dagger",
+    "Level": 50,
+    "BaseType": "Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Trisula",
+    "Level": 51,
+    "BaseType": "Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Gutting Knife",
+    "Level": 56,
+    "BaseType": "Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Ambusher",
+    "Level": 60,
+    "BaseType": "Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Sai",
+    "Level": 70,
+    "BaseType": "Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Pneumatic Dagger",
+    "Level": 70,
+    "BaseType": "Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Rusted Hatchet",
+    "Level": 1,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Jade Hatchet",
+    "Level": 6,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Boarding Axe",
+    "Level": 11,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Cleaver",
+    "Level": 16,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Broad Axe",
+    "Level": 21,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Arming Axe",
+    "Level": 25,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Decorative Axe",
+    "Level": 29,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Maltreatment Axe",
+    "Level": 30,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Spectral Axe",
+    "Level": 33,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Etched Hatchet",
+    "Level": 35,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Jasper Axe",
+    "Level": 36,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Tomahawk",
+    "Level": 39,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Wrist Chopper",
+    "Level": 42,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "War Axe",
+    "Level": 45,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Chest Splitter",
+    "Level": 48,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Disapprobation Axe",
+    "Level": 50,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Ceremonial Axe",
+    "Level": 51,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Wraith Axe",
+    "Level": 54,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Engraved Hatchet",
+    "Level": 56,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Karui Axe",
+    "Level": 57,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Siege Axe",
+    "Level": 59,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Reaver Axe",
+    "Level": 61,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Butcher Axe",
+    "Level": 63,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Vaal Hatchet",
+    "Level": 65,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Royal Axe",
+    "Level": 67,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Infernal Axe",
+    "Level": 69,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Psychotic Axe",
+    "Level": 70,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Runic Hatchet",
+    "Level": 71,
+    "BaseType": "One Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Driftwood Club",
+    "Level": 1,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Tribal Club",
+    "Level": 5,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Spiked Club",
+    "Level": 10,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Stone Hammer",
+    "Level": 15,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "War Hammer",
+    "Level": 20,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Bladed Mace",
+    "Level": 24,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Ceremonial Mace",
+    "Level": 28,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Flare Mace",
+    "Level": 30,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Dream Mace",
+    "Level": 32,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Wyrm Mace",
+    "Level": 34,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Petrified Club",
+    "Level": 35,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Barbed Club",
+    "Level": 38,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Rock Breaker",
+    "Level": 41,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Battle Hammer",
+    "Level": 44,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Flanged Mace",
+    "Level": 47,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Crack Mace",
+    "Level": 50,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Ornate Mace",
+    "Level": 50,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Phantom Mace",
+    "Level": 53,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Dragon Mace",
+    "Level": 55,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Ancestral Club",
+    "Level": 56,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Tenderizer",
+    "Level": 58,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Gavel",
+    "Level": 60,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Legion Hammer",
+    "Level": 62,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Pernach",
+    "Level": 64,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Auric Mace",
+    "Level": 66,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Nightmare Mace",
+    "Level": 68,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Behemoth Mace",
+    "Level": 70,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Boom Mace",
+    "Level": 70,
+    "BaseType": "One Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Rusted Sword",
+    "Level": 1,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Golden Blade",
+    "Level": 1,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Charan&#039;s Sword",
+    "Level": 1,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Copper Sword",
+    "Level": 5,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Sabre",
+    "Level": 10,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Broad Sword",
+    "Level": 15,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "War Sword",
+    "Level": 20,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Ancient Sword",
+    "Level": 24,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Elegant Sword",
+    "Level": 28,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Fickle Spiritblade",
+    "Level": 30,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Dusk Blade",
+    "Level": 32,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Hook Sword",
+    "Level": 34,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Variscite Blade",
+    "Level": 35,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Cutlass",
+    "Level": 38,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Baselard",
+    "Level": 41,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Battle Sword",
+    "Level": 44,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Elder Sword",
+    "Level": 47,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Graceful Sword",
+    "Level": 50,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Capricious Spiritblade",
+    "Level": 50,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Twilight Blade",
+    "Level": 53,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Grappler",
+    "Level": 55,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Gemstone Sword",
+    "Level": 56,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Corsair Sword",
+    "Level": 58,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Gladius",
+    "Level": 60,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Legion Sword",
+    "Level": 62,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Vaal Blade",
+    "Level": 64,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Eternal Sword",
+    "Level": 66,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Midnight Blade",
+    "Level": 68,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Tiger Hook",
+    "Level": 70,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Anarchic Spiritblade",
+    "Level": 70,
+    "BaseType": "One Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Carving Knife",
+    "Level": 10,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Boot Knife",
+    "Level": 20,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Copper Kris",
+    "Level": 24,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Skean",
+    "Level": 28,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Flickerflame Blade",
+    "Level": 30,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Imp Dagger",
+    "Level": 32,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Butcher Knife",
+    "Level": 38,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Boot Blade",
+    "Level": 44,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Golden Kris",
+    "Level": 47,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Royal Skean",
+    "Level": 50,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Flashfire Blade",
+    "Level": 50,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Fiend Dagger",
+    "Level": 53,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Slaughter Knife",
+    "Level": 58,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Ezomyte Dagger",
+    "Level": 62,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Platinum Kris",
+    "Level": 64,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Imperial Skean",
+    "Level": 66,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Demon Dagger",
+    "Level": 68,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Infernal Blade",
+    "Level": 70,
+    "BaseType": "Rune Dagger",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Driftwood Sceptre",
+    "Level": 1,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Darkwood Sceptre",
+    "Level": 5,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Bronze Sceptre",
+    "Level": 10,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Quartz Sceptre",
+    "Level": 15,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Iron Sceptre",
+    "Level": 20,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Ochre Sceptre",
+    "Level": 24,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Ritual Sceptre",
+    "Level": 28,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Oscillating Sceptre",
+    "Level": 30,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Shadow Sceptre",
+    "Level": 32,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Grinning Fetish",
+    "Level": 35,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Horned Sceptre",
+    "Level": 36,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Sekhem",
+    "Level": 38,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Crystal Sceptre",
+    "Level": 41,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Lead Sceptre",
+    "Level": 44,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Blood Sceptre",
+    "Level": 47,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Stabilising Sceptre",
+    "Level": 50,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Royal Sceptre",
+    "Level": 50,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Abyssal Sceptre",
+    "Level": 53,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Stag Sceptre",
+    "Level": 55,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Karui Sceptre",
+    "Level": 56,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Tyrant&#039;s Sekhem",
+    "Level": 58,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Opal Sceptre",
+    "Level": 60,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Platinum Sceptre",
+    "Level": 62,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Vaal Sceptre",
+    "Level": 64,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Carnal Sceptre",
+    "Level": 66,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Void Sceptre",
+    "Level": 68,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Sambar Sceptre",
+    "Level": 70,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Alternating Sceptre",
+    "Level": 70,
+    "BaseType": "Sceptre",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Gnarled Branch",
+    "Level": 1,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Primitive Staff",
+    "Level": 9,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Long Staff",
+    "Level": 18,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Royal Staff",
+    "Level": 28,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Transformer Staff",
+    "Level": 30,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Crescent Staff",
+    "Level": 36,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Woodful Staff",
+    "Level": 37,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Quarterstaff",
+    "Level": 45,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Reciprocation Staff",
+    "Level": 50,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Highborn Staff",
+    "Level": 52,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Moon Staff",
+    "Level": 57,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Primordial Staff",
+    "Level": 58,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Lathi",
+    "Level": 62,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Imperial Staff",
+    "Level": 66,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Eclipse Staff",
+    "Level": 70,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Battery Staff",
+    "Level": 70,
+    "BaseType": "Staff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Rusted Spike",
+    "Level": 1,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Whalebone Rapier",
+    "Level": 7,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Battered Foil",
+    "Level": 12,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Basket Rapier",
+    "Level": 17,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Jagged Foil",
+    "Level": 22,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Antique Rapier",
+    "Level": 26,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Elegant Foil",
+    "Level": 30,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Thorn Rapier",
+    "Level": 34,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Smallsword",
+    "Level": 36,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Wyrmbone Rapier",
+    "Level": 37,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Burnished Foil",
+    "Level": 40,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Estoc",
+    "Level": 43,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Serrated Foil",
+    "Level": 46,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Primeval Rapier",
+    "Level": 49,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Fancy Foil",
+    "Level": 52,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Apex Rapier",
+    "Level": 55,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Courtesan Sword",
+    "Level": 57,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Dragonbone Rapier",
+    "Level": 58,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Tempered Foil",
+    "Level": 60,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Pecoraro",
+    "Level": 62,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Spiraled Foil",
+    "Level": 64,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Vaal Rapier",
+    "Level": 66,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Jewelled Foil",
+    "Level": 68,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Harpy Rapier",
+    "Level": 70,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Dragoon Sword",
+    "Level": 72,
+    "BaseType": "Thrusting One Hand Sword",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Stone Axe",
+    "Level": 1,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Jade Chopper",
+    "Level": 9,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Woodsplitter",
+    "Level": 13,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Poleaxe",
+    "Level": 18,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Double Axe",
+    "Level": 23,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Gilded Axe",
+    "Level": 28,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Prime Cleaver",
+    "Level": 30,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Shadow Axe",
+    "Level": 33,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Dagger Axe",
+    "Level": 36,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Jasper Chopper",
+    "Level": 37,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Timber Axe",
+    "Level": 41,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Headsman Axe",
+    "Level": 45,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Labrys",
+    "Level": 49,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Honed Cleaver",
+    "Level": 50,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Noble Axe",
+    "Level": 52,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Abyssal Axe",
+    "Level": 55,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Karui Chopper",
+    "Level": 58,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Talon Axe",
+    "Level": 59,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Sundering Axe",
+    "Level": 60,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Ezomyte Axe",
+    "Level": 62,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Vaal Axe",
+    "Level": 64,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Despot Axe",
+    "Level": 66,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Void Axe",
+    "Level": 68,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Fleshripper",
+    "Level": 70,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Apex Cleaver",
+    "Level": 70,
+    "BaseType": "Two Hand Axe",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Driftwood Maul",
+    "Level": 1,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Tribal Maul",
+    "Level": 8,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Mallet",
+    "Level": 12,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Sledgehammer",
+    "Level": 17,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Jagged Maul",
+    "Level": 22,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Brass Maul",
+    "Level": 27,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Blunt Force Condenser",
+    "Level": 30,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Fright Maul",
+    "Level": 32,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Morning Star",
+    "Level": 34,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Totemic Maul",
+    "Level": 36,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Great Mallet",
+    "Level": 40,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Steelhead",
+    "Level": 44,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Spiny Maul",
+    "Level": 48,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Crushing Force Magnifier",
+    "Level": 50,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Plated Maul",
+    "Level": 51,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Dread Maul",
+    "Level": 54,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Solar Maul",
+    "Level": 56,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Karui Maul",
+    "Level": 57,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Colossus Mallet",
+    "Level": 59,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Piledriver",
+    "Level": 61,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Meatgrinder",
+    "Level": 63,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Imperial Maul",
+    "Level": 65,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Terror Maul",
+    "Level": 67,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Coronal Maul",
+    "Level": 69,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Impact Force Propagator",
+    "Level": 70,
+    "BaseType": "Two Hand Mace",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Corroded Blade",
+    "Level": 1,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Longsword",
+    "Level": 8,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Bastard Sword",
+    "Level": 12,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Two-Handed Sword",
+    "Level": 17,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Etched Greatsword",
+    "Level": 22,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Ornate Sword",
+    "Level": 27,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Rebuking Blade",
+    "Level": 30,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Spectral Sword",
+    "Level": 32,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Curved Blade",
+    "Level": 35,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Butcher Sword",
+    "Level": 36,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Footman Sword",
+    "Level": 40,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Highland Blade",
+    "Level": 44,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Engraved Greatsword",
+    "Level": 48,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Blasting Blade",
+    "Level": 50,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Tiger Sword",
+    "Level": 51,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Wraith Sword",
+    "Level": 54,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Lithe Blade",
+    "Level": 56,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Headman&#039;s Sword",
+    "Level": 57,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Reaver Sword",
+    "Level": 59,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Ezomyte Blade",
+    "Level": 61,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Vaal Greatsword",
+    "Level": 63,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Lion Sword",
+    "Level": 65,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Infernal Sword",
+    "Level": 67,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Exquisite Blade",
+    "Level": 70,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Banishing Blade",
+    "Level": 70,
+    "BaseType": "Two Hand Sword",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Driftwood Wand",
+    "Level": 1,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Goat&#039;s Horn",
+    "Level": 6,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Carved Wand",
+    "Level": 12,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Quartz Wand",
+    "Level": 18,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Spiraled Wand",
+    "Level": 24,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Assembler Wand",
+    "Level": 30,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Sage Wand",
+    "Level": 30,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Pagan Wand",
+    "Level": 34,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Faun&#039;s Horn",
+    "Level": 35,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Engraved Wand",
+    "Level": 40,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Crystal Wand",
+    "Level": 45,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Serpent Wand",
+    "Level": 49,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Congregator Wand",
+    "Level": 50,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Omen Wand",
+    "Level": 53,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Heathen Wand",
+    "Level": 55,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Demon&#039;s Horn",
+    "Level": 56,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Imbued Wand",
+    "Level": 59,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Opal Wand",
+    "Level": 62,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Tornado Wand",
+    "Level": 65,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Prophecy Wand",
+    "Level": 68,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Profane Wand",
+    "Level": 70,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Accumulator Wand",
+    "Level": 70,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Convoking Wand",
+    "Level": 72,
+    "BaseType": "Wand",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Iron Staff",
+    "Level": 13,
+    "BaseType": "Warstaff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Coiled Staff",
+    "Level": 23,
+    "BaseType": "Warstaff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Capacity Rod",
+    "Level": 30,
+    "BaseType": "Warstaff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Vile Staff",
+    "Level": 33,
+    "BaseType": "Warstaff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Military Staff",
+    "Level": 41,
+    "BaseType": "Warstaff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Serpentine Staff",
+    "Level": 49,
+    "BaseType": "Warstaff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Potentiality Rod",
+    "Level": 50,
+    "BaseType": "Warstaff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Foul Staff",
+    "Level": 55,
+    "BaseType": "Warstaff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Ezomyte Staff",
+    "Level": 60,
+    "BaseType": "Warstaff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Maelström Staff",
+    "Level": 64,
+    "BaseType": "Warstaff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Judgement Staff",
+    "Level": 68,
+    "BaseType": "Warstaff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Eventuality Rod",
+    "Level": 70,
+    "BaseType": "Warstaff",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Plate Vest",
+    "Level": 1,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Shabby Jerkin",
+    "Level": 1,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Simple Robe",
+    "Level": 1,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Padded Vest",
+    "Level": 1,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Chainmail Vest",
+    "Level": 1,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Scale Vest",
+    "Level": 1,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Chestplate",
+    "Level": 6,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Chainmail Tunic",
+    "Level": 8,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Light Brigandine",
+    "Level": 8,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Oiled Vest",
+    "Level": 9,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Strapped Leather",
+    "Level": 9,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Silken Vest",
+    "Level": 11,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Ringmail Coat",
+    "Level": 17,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Scale Doublet",
+    "Level": 17,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Copper Plate",
+    "Level": 17,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Buckskin Tunic",
+    "Level": 17,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Scholar&#039;s Robe",
+    "Level": 18,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Padded Jacket",
+    "Level": 18,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Golden Mantle",
+    "Level": 20,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Infantry Brigandine",
+    "Level": 21,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Chainmail Doublet",
+    "Level": 21,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "War Plate",
+    "Level": 21,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Oiled Coat",
+    "Level": 22,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Silken Garb",
+    "Level": 25,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Wild Leather",
+    "Level": 25,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Mage&#039;s Vestment",
+    "Level": 28,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Full Scale Armour",
+    "Level": 28,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Full Leather",
+    "Level": 28,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Scarlet Raiment",
+    "Level": 28,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Full Plate",
+    "Level": 28,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Full Ringmail",
+    "Level": 28,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Arena Plate",
+    "Level": 32,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Sun Leather",
+    "Level": 32,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Full Chainmail",
+    "Level": 32,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Soldier&#039;s Brigandine",
+    "Level": 32,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Silk Robe",
+    "Level": 32,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Waxed Garb",
+    "Level": 32,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Cabalist Regalia",
+    "Level": 35,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Lordly Plate",
+    "Level": 35,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Field Lamellar",
+    "Level": 35,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Thief&#039;s Garb",
+    "Level": 35,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Bone Armour",
+    "Level": 35,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Holy Chainmail",
+    "Level": 35,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Bronze Plate",
+    "Level": 37,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Sage&#039;s Robe",
+    "Level": 37,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Eelskin Tunic",
+    "Level": 37,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Wyrmscale Doublet",
+    "Level": 38,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Latticed Ringmail",
+    "Level": 39,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Quilted Jacket",
+    "Level": 40,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Silken Wrap",
+    "Level": 41,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Frontier Leather",
+    "Level": 41,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Battle Plate",
+    "Level": 41,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Hussar Brigandine",
+    "Level": 42,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Crusader Chainmail",
+    "Level": 43,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Sleek Coat",
+    "Level": 44,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Sun Plate",
+    "Level": 45,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Conjurer&#039;s Vestment",
+    "Level": 45,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Glorious Leather",
+    "Level": 45,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Full Wyrmscale",
+    "Level": 46,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Ornate Ringmail",
+    "Level": 47,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Crimson Raiment",
+    "Level": 48,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Coronal Leather",
+    "Level": 49,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Colosseum Plate",
+    "Level": 49,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Spidersilk Robe",
+    "Level": 49,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Commander&#039;s Brigandine",
+    "Level": 50,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Chain Hauberk",
+    "Level": 51,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Lacquered Garb",
+    "Level": 52,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Majestic Plate",
+    "Level": 53,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Cutthroat&#039;s Garb",
+    "Level": 53,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Destroyer Regalia",
+    "Level": 53,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Battle Lamellar",
+    "Level": 54,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Devout Chainmail",
+    "Level": 55,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Golden Plate",
+    "Level": 56,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Savant&#039;s Robe",
+    "Level": 56,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Sharkskin Tunic",
+    "Level": 56,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Crypt Armour",
+    "Level": 56,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Dragonscale Doublet",
+    "Level": 57,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Loricated Ringmail",
+    "Level": 58,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Sentinel Jacket",
+    "Level": 59,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Necromancer Silks",
+    "Level": 59,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Crusader Plate",
+    "Level": 59,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Destiny Leather",
+    "Level": 59,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Desert Brigandine",
+    "Level": 60,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Conquest Chainmail",
+    "Level": 61,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Exquisite Leather",
+    "Level": 62,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Varnished Coat",
+    "Level": 62,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Astral Plate",
+    "Level": 62,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Occultist&#039;s Vestment",
+    "Level": 62,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Full Dragonscale",
+    "Level": 63,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Elegant Ringmail",
+    "Level": 64,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Blood Raiment",
+    "Level": 65,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Gladiator Plate",
+    "Level": 65,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Zodiac Leather",
+    "Level": 65,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Widowsilk Robe",
+    "Level": 65,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "General&#039;s Brigandine",
+    "Level": 66,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Saint&#039;s Hauberk",
+    "Level": 67,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Sadist Garb",
+    "Level": 68,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Vaal Regalia",
+    "Level": 68,
+    "BaseType": "Body Armour",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Glorious Plate",
+    "Level": 68,
+    "BaseType": "Body Armour",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Assassin&#039;s Garb",
+    "Level": 68,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Triumphant Lamellar",
+    "Level": 69,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Saintly Chainmail",
+    "Level": 70,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Grasping Mail",
+    "Level": 70,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Carnal Armour",
+    "Level": 71,
+    "BaseType": "Body Armour",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Sacrificial Garb",
+    "Level": 72,
+    "BaseType": "Body Armour",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Iron Greaves",
+    "Level": 1,
+    "BaseType": "Boots",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Wool Shoes",
+    "Level": 1,
+    "BaseType": "Boots",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Rawhide Boots",
+    "Level": 1,
+    "BaseType": "Boots",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Chain Boots",
+    "Level": 5,
+    "BaseType": "Boots",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Wrapped Boots",
+    "Level": 6,
+    "BaseType": "Boots",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Leatherscale Boots",
+    "Level": 6,
+    "BaseType": "Boots",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Steel Greaves",
+    "Level": 9,
+    "BaseType": "Boots",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Velvet Slippers",
+    "Level": 9,
+    "BaseType": "Boots",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Goathide Boots",
+    "Level": 12,
+    "BaseType": "Boots",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Ringmail Boots",
+    "Level": 13,
+    "BaseType": "Boots",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Strapped Boots",
+    "Level": 16,
+    "BaseType": "Boots",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Ironscale Boots",
+    "Level": 18,
+    "BaseType": "Boots",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Cloudwhisper Boots",
+    "Level": 20,
+    "BaseType": "Boots",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Duskwalk Slippers",
+    "Level": 20,
+    "BaseType": "Boots",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Basemetal Treads",
+    "Level": 20,
+    "BaseType": "Boots",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Silk Slippers",
+    "Level": 22,
+    "BaseType": "Boots",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Deerskin Boots",
+    "Level": 22,
+    "BaseType": "Boots",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Plated Greaves",
+    "Level": 23,
+    "BaseType": "Boots",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Runic Greaves",
+    "Level": 24,
+    "BaseType": "Boots",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Clasped Boots",
+    "Level": 27,
+    "BaseType": "Boots",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Mesh Boots",
+    "Level": 28,
+    "BaseType": "Boots",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Bronzescale Boots",
+    "Level": 30,
+    "BaseType": "Boots",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Scholar Boots",
+    "Level": 32,
+    "BaseType": "Boots",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Reinforced Greaves",
+    "Level": 33,
+    "BaseType": "Boots",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Shackled Boots",
+    "Level": 34,
+    "BaseType": "Boots",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Nubuck Boots",
+    "Level": 34,
+    "BaseType": "Boots",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Steelscale Boots",
+    "Level": 36,
+    "BaseType": "Boots",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Riveted Boots",
+    "Level": 36,
+    "BaseType": "Boots",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Antique Greaves",
+    "Level": 37,
+    "BaseType": "Boots",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Satin Slippers",
+    "Level": 38,
+    "BaseType": "Boots",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Eelskin Boots",
+    "Level": 39,
+    "BaseType": "Boots",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Zealot Boots",
+    "Level": 40,
+    "BaseType": "Boots",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Trapper Boots",
+    "Level": 41,
+    "BaseType": "Boots",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Serpentscale Boots",
+    "Level": 42,
+    "BaseType": "Boots",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Sharkskin Boots",
+    "Level": 44,
+    "BaseType": "Boots",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Samite Slippers",
+    "Level": 44,
+    "BaseType": "Boots",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Ancient Greaves",
+    "Level": 46,
+    "BaseType": "Boots",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Ambush Boots",
+    "Level": 47,
+    "BaseType": "Boots",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Runic Sollerets",
+    "Level": 48,
+    "BaseType": "Boots",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Soldier Boots",
+    "Level": 49,
+    "BaseType": "Boots",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Nightwind Slippers",
+    "Level": 50,
+    "BaseType": "Boots",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Windbreak Boots",
+    "Level": 50,
+    "BaseType": "Boots",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Darksteel Treads",
+    "Level": 50,
+    "BaseType": "Boots",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Wyrmscale Boots",
+    "Level": 51,
+    "BaseType": "Boots",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Conjurer Boots",
+    "Level": 53,
+    "BaseType": "Boots",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Goliath Greaves",
+    "Level": 54,
+    "BaseType": "Boots",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Shagreen Boots",
+    "Level": 55,
+    "BaseType": "Boots",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Carnal Boots",
+    "Level": 55,
+    "BaseType": "Boots",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Legion Boots",
+    "Level": 58,
+    "BaseType": "Boots",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Hydrascale Boots",
+    "Level": 59,
+    "BaseType": "Boots",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Arcanist Slippers",
+    "Level": 61,
+    "BaseType": "Boots",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Vaal Greaves",
+    "Level": 62,
+    "BaseType": "Boots",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Stealth Boots",
+    "Level": 62,
+    "BaseType": "Boots",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Assassin&#039;s Boots",
+    "Level": 63,
+    "BaseType": "Boots",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Crusader Boots",
+    "Level": 64,
+    "BaseType": "Boots",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Dragonscale Boots",
+    "Level": 65,
+    "BaseType": "Boots",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Sorcerer Boots",
+    "Level": 67,
+    "BaseType": "Boots",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Titan Greaves",
+    "Level": 68,
+    "BaseType": "Boots",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Slink Boots",
+    "Level": 69,
+    "BaseType": "Boots",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Runic Sabatons",
+    "Level": 69,
+    "BaseType": "Boots",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Murder Boots",
+    "Level": 69,
+    "BaseType": "Boots",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Two-Toned Boots",
+    "Level": 70,
+    "BaseType": "Boots",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Fugitive Boots",
+    "Level": 70,
+    "BaseType": "Boots",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Stormrider Boots",
+    "Level": 80,
+    "BaseType": "Boots",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Dreamquest Slippers",
+    "Level": 80,
+    "BaseType": "Boots",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Brimstone Treads",
+    "Level": 80,
+    "BaseType": "Boots",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Iron Gauntlets",
+    "Level": 1,
+    "BaseType": "Gloves",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Wool Gloves",
+    "Level": 1,
+    "BaseType": "Gloves",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Rawhide Gloves",
+    "Level": 1,
+    "BaseType": "Gloves",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Fishscale Gauntlets",
+    "Level": 1,
+    "BaseType": "Gloves",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Wrapped Mitts",
+    "Level": 5,
+    "BaseType": "Gloves",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Chain Gloves",
+    "Level": 7,
+    "BaseType": "Gloves",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Goathide Gloves",
+    "Level": 9,
+    "BaseType": "Gloves",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Gauche Gloves",
+    "Level": 10,
+    "BaseType": "Gloves",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Leyline Gloves",
+    "Level": 10,
+    "BaseType": "Gloves",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Taxing Gauntlets",
+    "Level": 10,
+    "BaseType": "Gloves",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Plated Gauntlets",
+    "Level": 11,
+    "BaseType": "Gloves",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Velvet Gloves",
+    "Level": 12,
+    "BaseType": "Gloves",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Ironscale Gauntlets",
+    "Level": 15,
+    "BaseType": "Gloves",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Strapped Mitts",
+    "Level": 16,
+    "BaseType": "Gloves",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Ringmail Gloves",
+    "Level": 19,
+    "BaseType": "Gloves",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Deerskin Gloves",
+    "Level": 21,
+    "BaseType": "Gloves",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Bronze Gauntlets",
+    "Level": 23,
+    "BaseType": "Gloves",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Runic Gloves",
+    "Level": 24,
+    "BaseType": "Gloves",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Silk Gloves",
+    "Level": 25,
+    "BaseType": "Gloves",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Bronzescale Gauntlets",
+    "Level": 27,
+    "BaseType": "Gloves",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Clasped Mitts",
+    "Level": 31,
+    "BaseType": "Gloves",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Mesh Gloves",
+    "Level": 32,
+    "BaseType": "Gloves",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Nubuck Gloves",
+    "Level": 33,
+    "BaseType": "Gloves",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Steel Gauntlets",
+    "Level": 35,
+    "BaseType": "Gloves",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Steelscale Gauntlets",
+    "Level": 36,
+    "BaseType": "Gloves",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Embroidered Gloves",
+    "Level": 36,
+    "BaseType": "Gloves",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Trapper Mitts",
+    "Level": 36,
+    "BaseType": "Gloves",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Riveted Gloves",
+    "Level": 37,
+    "BaseType": "Gloves",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Eelskin Gloves",
+    "Level": 38,
+    "BaseType": "Gloves",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Antique Gauntlets",
+    "Level": 39,
+    "BaseType": "Gloves",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Aetherwind Gloves",
+    "Level": 40,
+    "BaseType": "Gloves",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Gruelling Gauntlets",
+    "Level": 40,
+    "BaseType": "Gloves",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Southswing Gloves",
+    "Level": 40,
+    "BaseType": "Gloves",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Satin Gloves",
+    "Level": 41,
+    "BaseType": "Gloves",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Serpentscale Gauntlets",
+    "Level": 43,
+    "BaseType": "Gloves",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Zealot Gloves",
+    "Level": 43,
+    "BaseType": "Gloves",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Ambush Mitts",
+    "Level": 45,
+    "BaseType": "Gloves",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Sharkskin Gloves",
+    "Level": 45,
+    "BaseType": "Gloves",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Samite Gloves",
+    "Level": 47,
+    "BaseType": "Gloves",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Ancient Gauntlets",
+    "Level": 47,
+    "BaseType": "Gloves",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Runic Gages",
+    "Level": 48,
+    "BaseType": "Gloves",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Wyrmscale Gauntlets",
+    "Level": 49,
+    "BaseType": "Gloves",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Carnal Mitts",
+    "Level": 50,
+    "BaseType": "Gloves",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Soldier Gloves",
+    "Level": 51,
+    "BaseType": "Gloves",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Goliath Gauntlets",
+    "Level": 53,
+    "BaseType": "Gloves",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Shagreen Gloves",
+    "Level": 54,
+    "BaseType": "Gloves",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Conjurer Gloves",
+    "Level": 55,
+    "BaseType": "Gloves",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Legion Gloves",
+    "Level": 57,
+    "BaseType": "Gloves",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Assassin&#039;s Mitts",
+    "Level": 58,
+    "BaseType": "Gloves",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Hydrascale Gauntlets",
+    "Level": 59,
+    "BaseType": "Gloves",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Arcanist Gloves",
+    "Level": 60,
+    "BaseType": "Gloves",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Stealth Gloves",
+    "Level": 62,
+    "BaseType": "Gloves",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Vaal Gauntlets",
+    "Level": 63,
+    "BaseType": "Gloves",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Crusader Gloves",
+    "Level": 66,
+    "BaseType": "Gloves",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Dragonscale Gauntlets",
+    "Level": 67,
+    "BaseType": "Gloves",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Murder Mitts",
+    "Level": 67,
+    "BaseType": "Gloves",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Sorcerer Gloves",
+    "Level": 69,
+    "BaseType": "Gloves",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Titan Gauntlets",
+    "Level": 69,
+    "BaseType": "Gloves",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Runic Gauntlets",
+    "Level": 69,
+    "BaseType": "Gloves",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Debilitation Gauntlets",
+    "Level": 70,
+    "BaseType": "Gloves",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Slink Gloves",
+    "Level": 70,
+    "BaseType": "Gloves",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Spiked Gloves",
+    "Level": 70,
+    "BaseType": "Gloves",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Gripped Gloves",
+    "Level": 70,
+    "BaseType": "Gloves",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Fingerless Silk Gloves",
+    "Level": 70,
+    "BaseType": "Gloves",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Apothecary&#039;s Gloves",
+    "Level": 70,
+    "BaseType": "Gloves",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Sinistral Gloves",
+    "Level": 70,
+    "BaseType": "Gloves",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Nexus Gloves",
+    "Level": 70,
+    "BaseType": "Gloves",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Iron Hat",
+    "Level": 1,
+    "BaseType": "Helmets",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Leather Cap",
+    "Level": 1,
+    "BaseType": "Helmets",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Vine Circlet",
+    "Level": 1,
+    "BaseType": "Helmets",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Scare Mask",
+    "Level": 1,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Battered Helm",
+    "Level": 1,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Rusted Coif",
+    "Level": 5,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Cone Helmet",
+    "Level": 7,
+    "BaseType": "Helmets",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Iron Circlet",
+    "Level": 8,
+    "BaseType": "Helmets",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Plague Mask",
+    "Level": 10,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Tricorne",
+    "Level": 10,
+    "BaseType": "Helmets",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Soldier Helmet",
+    "Level": 12,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Sallet",
+    "Level": 13,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Sorrow Mask",
+    "Level": 15,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Gale Crown",
+    "Level": 15,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Imp Crown",
+    "Level": 15,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Torture Cage",
+    "Level": 17,
+    "BaseType": "Helmets",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Iron Mask",
+    "Level": 17,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Barbute Helmet",
+    "Level": 18,
+    "BaseType": "Helmets",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Leather Hood",
+    "Level": 20,
+    "BaseType": "Helmets",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Great Helmet",
+    "Level": 22,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Visored Sallet",
+    "Level": 23,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Runic Helm",
+    "Level": 25,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Tribal Circlet",
+    "Level": 26,
+    "BaseType": "Helmets",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Close Helmet",
+    "Level": 26,
+    "BaseType": "Helmets",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Festival Mask",
+    "Level": 28,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Wolf Pelt",
+    "Level": 30,
+    "BaseType": "Helmets",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Crusader Helmet",
+    "Level": 31,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Gilded Sallet",
+    "Level": 33,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Bone Circlet",
+    "Level": 34,
+    "BaseType": "Helmets",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Gladiator Helmet",
+    "Level": 35,
+    "BaseType": "Helmets",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Golden Mask",
+    "Level": 35,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Secutor Helm",
+    "Level": 36,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Aventail Helmet",
+    "Level": 37,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Raven Mask",
+    "Level": 38,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Lunaris Circlet",
+    "Level": 39,
+    "BaseType": "Helmets",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Reaver Helmet",
+    "Level": 40,
+    "BaseType": "Helmets",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Hunter Hood",
+    "Level": 41,
+    "BaseType": "Helmets",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Fencer Helm",
+    "Level": 43,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Zealot Helmet",
+    "Level": 44,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Atonement Mask",
+    "Level": 45,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Winter Crown",
+    "Level": 45,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Demon Crown",
+    "Level": 45,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Callous Mask",
+    "Level": 45,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Noble Tricorne",
+    "Level": 47,
+    "BaseType": "Helmets",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Siege Helmet",
+    "Level": 48,
+    "BaseType": "Helmets",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Steel Circlet",
+    "Level": 48,
+    "BaseType": "Helmets",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Runic Crest",
+    "Level": 49,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Lacquered Helmet",
+    "Level": 51,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Regicide Mask",
+    "Level": 52,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Great Crown",
+    "Level": 53,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Necromancer Circlet",
+    "Level": 54,
+    "BaseType": "Helmets",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Samnite Helmet",
+    "Level": 55,
+    "BaseType": "Helmets",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Ursine Pelt",
+    "Level": 55,
+    "BaseType": "Helmets",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Harlequin Mask",
+    "Level": 57,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Fluted Bascinet",
+    "Level": 58,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Magistrate Crown",
+    "Level": 58,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Solaris Circlet",
+    "Level": 59,
+    "BaseType": "Helmets",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Ezomyte Burgonet",
+    "Level": 60,
+    "BaseType": "Helmets",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Silken Hood",
+    "Level": 60,
+    "BaseType": "Helmets",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Vaal Mask",
+    "Level": 62,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Prophet Crown",
+    "Level": 63,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Pig-Faced Bascinet",
+    "Level": 63,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Sinner Tricorne",
+    "Level": 64,
+    "BaseType": "Helmets",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Royal Burgonet",
+    "Level": 65,
+    "BaseType": "Helmets",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Mind Cage",
+    "Level": 65,
+    "BaseType": "Helmets",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Nightmare Bascinet",
+    "Level": 67,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Deicide Mask",
+    "Level": 67,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Runic Crown",
+    "Level": 68,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Praetor Crown",
+    "Level": 68,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Eternal Burgonet",
+    "Level": 69,
+    "BaseType": "Helmets",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Hubris Circlet",
+    "Level": 69,
+    "BaseType": "Helmets",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Lion Pelt",
+    "Level": 70,
+    "BaseType": "Helmets",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Bone Helmet",
+    "Level": 73,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Blizzard Crown",
+    "Level": 75,
+    "BaseType": "Helmets",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Penitent Mask",
+    "Level": 75,
+    "BaseType": "Helmets",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Archdemon Crown",
+    "Level": 75,
+    "BaseType": "Helmets",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Splintered Tower Shield",
+    "Level": 1,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Goathide Buckler",
+    "Level": 1,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Twig Spirit Shield",
+    "Level": 1,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Spiked Bundle",
+    "Level": 5,
+    "BaseType": "Shields",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Rotted Round Shield",
+    "Level": 5,
+    "BaseType": "Shields",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Corroded Tower Shield",
+    "Level": 5,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Plank Kite Shield",
+    "Level": 7,
+    "BaseType": "Shields",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Pine Buckler",
+    "Level": 8,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Yew Spirit Shield",
+    "Level": 9,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Rawhide Tower Shield",
+    "Level": 11,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Driftwood Spiked Shield",
+    "Level": 12,
+    "BaseType": "Shields",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Fir Round Shield",
+    "Level": 12,
+    "BaseType": "Shields",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Linden Kite Shield",
+    "Level": 13,
+    "BaseType": "Shields",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Bone Spirit Shield",
+    "Level": 15,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Painted Buckler",
+    "Level": 16,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Cedar Tower Shield",
+    "Level": 17,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Reinforced Kite Shield",
+    "Level": 20,
+    "BaseType": "Shields",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Alloyed Spiked Shield",
+    "Level": 20,
+    "BaseType": "Shields",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Studded Round Shield",
+    "Level": 20,
+    "BaseType": "Shields",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Tarnished Spirit Shield",
+    "Level": 23,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Hammered Buckler",
+    "Level": 23,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Copper Tower Shield",
+    "Level": 24,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Burnished Spiked Shield",
+    "Level": 27,
+    "BaseType": "Shields",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Layered Kite Shield",
+    "Level": 27,
+    "BaseType": "Shields",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Scarlet Round Shield",
+    "Level": 27,
+    "BaseType": "Shields",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Jingling Spirit Shield",
+    "Level": 28,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "War Buckler",
+    "Level": 29,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Reinforced Tower Shield",
+    "Level": 30,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Exothermic Tower Shield",
+    "Level": 30,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Endothermic Buckler",
+    "Level": 30,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Exhausting Spirit Shield",
+    "Level": 30,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Splendid Round Shield",
+    "Level": 33,
+    "BaseType": "Shields",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Ornate Spiked Shield",
+    "Level": 33,
+    "BaseType": "Shields",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Brass Spirit Shield",
+    "Level": 33,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Ceremonial Kite Shield",
+    "Level": 34,
+    "BaseType": "Shields",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Gilded Buckler",
+    "Level": 34,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Painted Tower Shield",
+    "Level": 35,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Walnut Spirit Shield",
+    "Level": 37,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Oak Buckler",
+    "Level": 38,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Redwood Spiked Shield",
+    "Level": 39,
+    "BaseType": "Shields",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Maple Round Shield",
+    "Level": 39,
+    "BaseType": "Shields",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Buckskin Tower Shield",
+    "Level": 39,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Etched Kite Shield",
+    "Level": 40,
+    "BaseType": "Shields",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Ivory Spirit Shield",
+    "Level": 41,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Enameled Buckler",
+    "Level": 42,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Mahogany Tower Shield",
+    "Level": 43,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Spiked Round Shield",
+    "Level": 45,
+    "BaseType": "Shields",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Compound Spiked Shield",
+    "Level": 45,
+    "BaseType": "Shields",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Ancient Spirit Shield",
+    "Level": 45,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Steel Kite Shield",
+    "Level": 46,
+    "BaseType": "Shields",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Corrugated Buckler",
+    "Level": 46,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Bronze Tower Shield",
+    "Level": 47,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Chiming Spirit Shield",
+    "Level": 49,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Crimson Round Shield",
+    "Level": 49,
+    "BaseType": "Shields",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Polished Spiked Shield",
+    "Level": 49,
+    "BaseType": "Shields",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Polar Buckler",
+    "Level": 50,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Laminated Kite Shield",
+    "Level": 50,
+    "BaseType": "Shields",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Battle Buckler",
+    "Level": 50,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Magmatic Tower Shield",
+    "Level": 50,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Subsuming Spirit Shield",
+    "Level": 50,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Girded Tower Shield",
+    "Level": 51,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Thorium Spirit Shield",
+    "Level": 53,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Baroque Round Shield",
+    "Level": 54,
+    "BaseType": "Shields",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Sovereign Spiked Shield",
+    "Level": 54,
+    "BaseType": "Shields",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Golden Buckler",
+    "Level": 54,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Crested Tower Shield",
+    "Level": 55,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Angelic Kite Shield",
+    "Level": 55,
+    "BaseType": "Shields",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Lacewood Spirit Shield",
+    "Level": 56,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Ironwood Buckler",
+    "Level": 57,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Shagreen Tower Shield",
+    "Level": 58,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Teak Round Shield",
+    "Level": 58,
+    "BaseType": "Shields",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Alder Spiked Shield",
+    "Level": 58,
+    "BaseType": "Shields",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Branded Kite Shield",
+    "Level": 59,
+    "BaseType": "Shields",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Fossilised Spirit Shield",
+    "Level": 59,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Lacquered Buckler",
+    "Level": 60,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Ebony Tower Shield",
+    "Level": 61,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Champion Kite Shield",
+    "Level": 62,
+    "BaseType": "Shields",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Ezomyte Spiked Shield",
+    "Level": 62,
+    "BaseType": "Shields",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Spiny Round Shield",
+    "Level": 62,
+    "BaseType": "Shields",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Vaal Spirit Shield",
+    "Level": 62,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Vaal Buckler",
+    "Level": 63,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Ezomyte Tower Shield",
+    "Level": 64,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Harmonic Spirit Shield",
+    "Level": 65,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Mosaic Kite Shield",
+    "Level": 65,
+    "BaseType": "Shields",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Cardinal Round Shield",
+    "Level": 66,
+    "BaseType": "Shields",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Crusader Buckler",
+    "Level": 66,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Mirrored Spiked Shield",
+    "Level": 66,
+    "BaseType": "Shields",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Colossal Tower Shield",
+    "Level": 67,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Titanium Spirit Shield",
+    "Level": 68,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  },
+  {
+    "Name": "Archon Kite Shield",
+    "Level": 68,
+    "BaseType": "Shields",
+    "AttributeType": "str_int"
+  },
+  {
+    "Name": "Imperial Buckler",
+    "Level": 69,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Pinnacle Tower Shield",
+    "Level": 70,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Heat-attuned Tower Shield",
+    "Level": 70,
+    "BaseType": "Shields",
+    "AttributeType": "str"
+  },
+  {
+    "Name": "Cold-attuned Buckler",
+    "Level": 70,
+    "BaseType": "Shields",
+    "AttributeType": "dex"
+  },
+  {
+    "Name": "Elegant Round Shield",
+    "Level": 70,
+    "BaseType": "Shields",
+    "AttributeType": "str_dex"
+  },
+  {
+    "Name": "Supreme Spiked Shield",
+    "Level": 70,
+    "BaseType": "Shields",
+    "AttributeType": "dex_int"
+  },
+  {
+    "Name": "Transfer-attuned Spirit Shield",
+    "Level": 70,
+    "BaseType": "Shields",
+    "AttributeType": "int"
+  }
+]
