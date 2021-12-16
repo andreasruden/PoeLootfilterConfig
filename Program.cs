@@ -16,7 +16,10 @@ namespace PoeLootfilterConfig
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            var mainWindow = new MainWindow();
+            for (int i = 0; i < 20; ++i)
+                mainWindow.AddLevelingFilterOption("test" + i.ToString());
+            Application.Run(mainWindow);
         }
     }
 }
