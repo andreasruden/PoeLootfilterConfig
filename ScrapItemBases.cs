@@ -32,14 +32,14 @@ namespace ScrapeItemBases
         static void Main(string[] args)
         {
             var container = new List<dynamic>();
-            var jsonObjects = new List<Dictionary<string, List<Dictionary<string, string>>>>();
+            var jsonObjects = new List<Dictionary<Tuple<string, string>, List<Dictionary<string, string>>>>();
 
             foreach (KeyValuePair<string, string> itemType in ItemTypeToSite)
             {
                 var site = ItemTypeToSite[itemType.Key];
 
                 var itemList = CreateItemList(site);
-                var jsonObject = FormatItemList(itemList);
+                var jsonObject = FormatItemList(itemList, itemType.Key);
                 jsonObjects.Add(jsonObject);
             }
 
@@ -91,9 +91,9 @@ namespace ScrapeItemBases
             return itemList;
         }
 
-        private static Dictionary<string, List<Dictionary<string, string>>> FormatItemList(Dictionary<string, List<List<string>>> itemList)
+        private static Dictionary<Tuple<string, string>, List<Dictionary<string, string>>> FormatItemList(Dictionary<string, List<List<string>>> itemList, string category)
         {
-            var items = new Dictionary<string, List<Dictionary<string, string>>>();
+            var items = new Dictionary<Tuple<string, string>, List<Dictionary<string, string>>>();
             foreach (var entry in itemList)
             {
                 var header = entry.Key;
@@ -110,19 +110,20 @@ namespace ScrapeItemBases
                     }
                     innerItems.Add(item);
                 }
-                items.Add(header, innerItems);
+                items.Add(new Tuple<string, string>(header, category), innerItems);
             }
             return items;
         }
 
-        private static List<Dictionary<string, object>> MangleJsonObjects(List<Dictionary<string, List<Dictionary<string, string>>>> jsonObjects)
+        private static List<Dictionary<string, object>> MangleJsonObjects(List<Dictionary<Tuple<string, string>, List<Dictionary<string, string>>>> jsonObjects)
         {
             var jsonOut = new List<Dictionary<string, object>>();
             foreach (var jsonObject in jsonObjects)
             {
                 foreach (var entry in jsonObject)
                 {
-                    var baseType = entry.Key;
+                    var baseType = entry.Key.Item1;
+                    var category = entry.Key.Item2;
                     var items = entry.Value;
                     foreach (var item in items)
                     {
@@ -161,6 +162,7 @@ namespace ScrapeItemBases
                             { "Level", level },
                             { "BaseType", baseType },
                             { "AttributeType", attr },
+                            { "Category", category }
                         });
                     }
                 }
